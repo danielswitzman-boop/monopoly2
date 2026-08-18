@@ -1,2 +1,0 @@
-# monopoly
-Monopoly project
